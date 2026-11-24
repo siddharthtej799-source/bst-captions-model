@@ -1,0 +1,3 @@
+d9634acafcd3e3f9b5f989ab8becb79a9b3696dad8ae98f656f5f81a2767d235  indicconformer.tar.part1
+276a8e0adf66a866823e4a16ff8b16a41f9b551207d97288517cb9c297b8bd72  indicconformer.tar.part2
+1974fdedc60affd0744c0cb5e12cad93fe3923b931c7e915cef3b0146d7a5c1f  indicconformer.tar

@@ -1,0 +1,8 @@
+IndicConformer-600M-Multi, by AI4Bharat - unmodified copy for the BST Auto Captioning installer.
+
+Original model:  https://huggingface.co/ai4bharat/indic-conformer-600m-multilingual
+Revision:        2a77d305038dfc502fd9464e7d028b90381976cb
+Licence:         MIT, as declared in the model card (README.md); see LICENSE.txt
+All files except LICENSE.txt and this file are original files of that revision, byte for byte (403 files).
+They are packed into one tar archive, split into parts below GitHub's 2 GB file limit. Please cite the original
+authors as the model card asks.
